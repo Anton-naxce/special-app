@@ -1,7 +1,7 @@
 $(function(){
 
     let showPopup = function(){
-        $('.popup-container').css('display', 'flex');
+        $('.popup-container').css('display', 'flexis');
     };
 
     let closePopup = function(){
